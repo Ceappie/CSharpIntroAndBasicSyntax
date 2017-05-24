@@ -1,0 +1,6 @@
+C:\Users\SoftUni\AppData\Local\Temporary Projects\CSharpIntroAndBasicSyntax\bin\Debug\CSharpIntroAndBasicSyntax.exe.config
+C:\Users\SoftUni\AppData\Local\Temporary Projects\CSharpIntroAndBasicSyntax\bin\Debug\CSharpIntroAndBasicSyntax.exe
+C:\Users\SoftUni\AppData\Local\Temporary Projects\CSharpIntroAndBasicSyntax\bin\Debug\CSharpIntroAndBasicSyntax.pdb
+C:\Users\SoftUni\AppData\Local\Temporary Projects\CSharpIntroAndBasicSyntax\obj\Debug\CSharpIntroAndBasicSyntax.csprojResolveAssemblyReference.cache
+C:\Users\SoftUni\AppData\Local\Temporary Projects\CSharpIntroAndBasicSyntax\obj\Debug\CSharpIntroAndBasicSyntax.exe
+C:\Users\SoftUni\AppData\Local\Temporary Projects\CSharpIntroAndBasicSyntax\obj\Debug\CSharpIntroAndBasicSyntax.pdb

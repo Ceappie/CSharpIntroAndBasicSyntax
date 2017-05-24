@@ -1,0 +1,5 @@
+C:\Projects\DataTypeAndVariables\CSharpIntroAndBasicSyntax\AddTwoNumbers\bin\Debug\AddTwoNumbers.exe.config
+C:\Projects\DataTypeAndVariables\CSharpIntroAndBasicSyntax\AddTwoNumbers\bin\Debug\AddTwoNumbers.exe
+C:\Projects\DataTypeAndVariables\CSharpIntroAndBasicSyntax\AddTwoNumbers\bin\Debug\AddTwoNumbers.pdb
+C:\Projects\DataTypeAndVariables\CSharpIntroAndBasicSyntax\AddTwoNumbers\obj\Debug\AddTwoNumbers.exe
+C:\Projects\DataTypeAndVariables\CSharpIntroAndBasicSyntax\AddTwoNumbers\obj\Debug\AddTwoNumbers.pdb
